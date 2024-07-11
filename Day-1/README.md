@@ -1,7 +1,7 @@
-Sure, here's a simplified `README.md` file focused on the tasks and information for Day 1:
+`README.md` file focused on the tasks and information:
 
-```markdown
-# Day 1 - Hello World
+
+<h1 align="center">Day 1</h1>
 
 ## Tasks
 
@@ -9,7 +9,7 @@ Sure, here's a simplified `README.md` file focused on the tasks and information 
 
 #### Java
 
-
+```markdown
 public class HelloWorld {
     public static void main(String[] args) {
         // This is a single line comment
