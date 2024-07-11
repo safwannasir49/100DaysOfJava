@@ -40,3 +40,6 @@ print("Hello World!")  # Print Hello World to the console
 ```
 
 This `README.md` includes the essential information and tasks for Day 1, with sections for code examples and a reading list.
+```
+
+<p>For more details, check the <a href="https://github.com/safwannasir49/100DaysOfJava/tree/main/Day-1/ReadingLists">Reading List</a>.</p>
