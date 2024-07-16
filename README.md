@@ -161,8 +161,379 @@
 
 ## Day 20 - Set/HashSet
 ### Tasks:
-1. Write a program that performs the following tasks:
-   - Initialize a Set of String values and add items to it.
-   - Check if a value exists in the Set.
-   - Remove a value from the Set.
-   - Print the number of values
+- Initialize a Set of String values and add items to it.
+- Check if a value exists in the Set.
+- Remove a value from the Set.
+- Print the number of values in the Set.
+
+### Reading List:
+- Understand the properties of Set and HashSet in Java.
+- Learn the differences between List and Set in Java.
+
+## Day 21 - HashMap
+### Tasks:
+- Initialize a HashMap with some key-value pairs.
+- Retrieve a value based on its key.
+- Update the value of a specific key.
+- Remove a key-value pair from the HashMap.
+- Print all keys and values in the HashMap.
+
+### Reading List:
+- Learn about the HashMap class and its methods.
+- Understand the differences between HashMap and Hashtable.
+
+## Day 22 - Stack
+### Tasks:
+- Initialize a Stack and perform basic stack operations (push, pop, peek).
+- Check if the stack is empty.
+- Print all elements in the stack.
+
+### Reading List:
+- Understand the Stack data structure and its usage.
+- Learn the differences between Stack and other data structures like Queue and LinkedList.
+
+## Day 23 - Queue
+### Tasks:
+- Initialize a Queue and perform basic queue operations (add, remove, peek).
+- Check if the queue is empty.
+- Print all elements in the queue.
+
+### Reading List:
+- Learn about the Queue interface and its implementations.
+- Understand the differences between Queue and Stack.
+
+## Day 24 - Object-Oriented Programming (OOP)
+### Tasks:
+- Create a class with attributes and methods.
+- Create objects of the class and invoke their methods.
+
+### Reading List:
+- Learn about the four pillars of OOP: Encapsulation, Inheritance, Polymorphism, and Abstraction.
+- Understand the benefits of OOP in software development.
+
+## Day 25 - Simple Class
+### Tasks:
+- Define a simple class with attributes and methods.
+- Create objects of the class and set values to the attributes.
+- Print the attribute values of the objects.
+
+### Reading List:
+- Learn about classes and objects in Java.
+- Understand how to define and use classes.
+
+## Day 26 - Constructors
+### Tasks:
+- Define a class with different types of constructors:
+  - Default constructor.
+  - Parameterized constructor.
+  - Copy constructor.
+
+### Reading List:
+- Learn about constructors in Java and their types.
+- Understand the importance of constructors in object initialization.
+
+## Day 27 - Inheritance
+### Tasks:
+- Create a base class and a derived class.
+- Show how the derived class inherits attributes and methods from the base class.
+
+### Reading List:
+- Learn about inheritance in Java.
+- Understand the benefits and usage of inheritance in OOP.
+
+## Day 28 - Method Overloading
+### Tasks:
+- Define multiple methods with the same name but different parameters.
+- Show how to call the overloaded methods.
+
+### Reading List:
+- Learn about method overloading in Java.
+- Understand the benefits and use cases of method overloading.
+
+## Day 29 - Method Overriding
+### Tasks:
+- Create a base class with a method.
+- Create a derived class that overrides the method.
+
+### Reading List:
+- Learn about method overriding in Java.
+- Understand the differences between method overloading and method overriding.
+
+## Day 30 - Abstract Class
+### Tasks:
+- Define an abstract class with abstract and non-abstract methods.
+- Create a subclass that extends the abstract class and implements the abstract methods.
+
+### Reading List:
+- Learn about abstract classes and methods in Java.
+- Understand when and why to use abstract classes in OOP.
+
+## Day 31 - Interface
+### Tasks:
+- Define an interface with multiple methods.
+- Create a class that implements the interface.
+- Demonstrate multiple inheritance with interfaces.
+
+### Reading List:
+- Learn about interfaces in Java and their uses.
+- Understand the differences between abstract classes and interfaces.
+
+## Day 32 - Polymorphism
+### Tasks:
+- Demonstrate method overloading and method overriding.
+- Create a program that shows runtime and compile-time polymorphism.
+
+### Reading List:
+- Learn about polymorphism in Java.
+- Understand the benefits of polymorphism in OOP.
+
+## Day 33 - Serialization and Deserialization
+### Tasks:
+- Write a program to serialize an object to a file.
+- Write a program to deserialize an object from a file.
+
+### Reading List:
+- Learn about serialization and deserialization in Java.
+- Understand the purpose and usage of the Serializable interface.
+
+## Day 34 - Annotations
+### Tasks:
+- Create custom annotations.
+- Use built-in annotations like @Override, @Deprecated, and @SuppressWarnings.
+
+### Reading List:
+- Learn about annotations in Java and their uses.
+- Understand the differences between custom and built-in annotations.
+
+## Day 35 - Working with Files
+### Tasks:
+- Write a program to read from a file.
+- Write a program to write to a file.
+- Handle exceptions during file operations.
+
+### Reading List:
+- Learn about file handling in Java.
+- Understand the different classes used for file operations in Java.
+
+## Day 36 - File I/O
+### Tasks:
+- Write a program to read from a file using FileReader and BufferedReader.
+- Write a program to write to a file using FileWriter and BufferedWriter.
+
+### Reading List:
+- Learn about FileReader, FileWriter, BufferedReader, and BufferedWriter classes.
+- Understand the importance of buffering in file I/O.
+
+## Day 37 - File I/O
+### Tasks:
+- Write a program to read from a file using InputStream and DataInputStream.
+- Write a program to write to a file using OutputStream and DataOutputStream.
+
+### Reading List:
+- Learn about InputStream, OutputStream, DataInputStream, and DataOutputStream classes.
+- Understand the differences between character and byte streams.
+
+## Day 38 - Exception Handling
+### Tasks:
+- Write a program that demonstrates try, catch, and finally blocks.
+- Create custom exceptions and demonstrate their usage.
+- Use multiple catch blocks to handle different exceptions.
+
+### Reading List:
+- Learn about exception handling in Java.
+- Understand the importance of handling exceptions in a program.
+
+## Day 39 - Streams and Lambdas
+### Tasks:
+- Write a program that demonstrates the use of streams for data manipulation.
+- Use lambda expressions to implement functional interfaces.
+
+### Reading List:
+- Learn about streams and their operations in Java.
+- Understand the benefits of lambda expressions in functional programming.
+
+## Day 40 - Multithreading
+### Tasks:
+- Create a program that demonstrates the creation of threads by extending the Thread class and implementing the Runnable interface.
+- Use synchronized blocks to handle concurrency.
+
+### Reading List:
+- Learn about multithreading in Java.
+- Understand the differences between extending Thread class and implementing Runnable interface.
+
+## Day 41 - Regular Expressions
+### Tasks:
+- Write a program that uses regular expressions to validate user input.
+- Use Pattern and Matcher classes to find and replace patterns in a string.
+
+### Reading List:
+- Learn about regular expressions in Java.
+- Understand the usage of Pattern and Matcher classes.
+
+## Day 42 - JDBC (Java Database Connectivity): Introduction
+### Tasks:
+- Set up a database connection using JDBC.
+- Write a program to connect to a database and execute a simple query.
+
+### Reading List:
+- Learn about JDBC and its components.
+- Understand the process of connecting to a database using JDBC.
+
+## Day 43 - JDBC: CRUD Operations
+### Tasks:
+- Write a program to perform Create, Read, Update, and Delete operations using JDBC.
+
+### Reading List:
+- Learn about CRUD operations in JDBC.
+- Understand the importance of CRUD operations in database management.
+
+## Day 44 - JDBC: Prepared Statements and Transactions
+### Tasks:
+- Write a program to execute queries using prepared statements.
+- Demonstrate transaction management in JDBC.
+
+### Reading List:
+- Learn about prepared statements and their advantages.
+- Understand transaction management in JDBC.
+
+## Day 45 - JDBC: ResultSet and Metadata
+### Tasks:
+- Write a program to read data from a ResultSet.
+- Retrieve and display metadata about the database.
+
+### Reading List:
+- Learn about ResultSet and its methods.
+- Understand the importance of metadata in database applications.
+
+## Day 46 - JDBC: Advanced Concepts
+### Tasks:
+- Write a program to handle batch updates using JDBC.
+- Use callable statements to execute stored procedures.
+
+### Reading List:
+- Learn about batch updates in JDBC.
+- Understand the usage of callable statements and stored procedures.
+
+## Day 47 - Spring Boot: Foundations
+### Tasks:
+- Set up a Spring Boot project.
+- Create a simple Spring Boot application.
+
+### Reading List:
+- Learn about the basics of Spring Boot.
+- Understand the advantages of using Spring Boot for Java applications.
+
+## Day 48 - Spring Boot: REST API with Spring MVC
+### Tasks:
+- Create a REST API using Spring Boot and Spring MVC.
+- Implement CRUD operations in the REST API.
+
+### Reading List:
+- Learn about Spring MVC and its components.
+- Understand the process of creating RESTful web services using Spring Boot.
+
+## Day 49 - Spring Boot: Data Persistence with JPA
+### Tasks:
+- Set up JPA in a Spring Boot project.
+- Create entities and repositories for data persistence.
+
+### Reading List:
+- Learn about JPA and its components.
+- Understand the importance of data persistence in applications.
+
+## Day 50 - Spring Boot: CRUD Operations with Spring Data JPA
+### Tasks:
+- Implement CRUD operations using Spring Data JPA.
+- Write tests for the CRUD operations.
+
+### Reading List:
+- Learn about Spring Data JPA and its features.
+- Understand the process of testing CRUD operations in Spring Boot.
+
+## Day 51 - Spring Boot: Advanced
+### Tasks:
+- Implement exception handling in a Spring Boot application.
+- Secure a Spring Boot application using Spring Security.
+
+### Reading List:
+- Learn about exception handling in Spring Boot.
+- Understand the basics of securing applications with Spring Security.
+
+## Day 52 - Java Collections Framework
+### Tasks:
+- Explore and use different collection classes (List, Set, Map).
+- Understand the differences between these collections and their use cases.
+
+### Reading List:
+- Learn about the Java Collections Framework.
+- Understand the advantages of using collections in Java.
+
+## Day 53 - LinkedList
+### Tasks:
+- Write a program to demonstrate the usage of LinkedList.
+- Perform operations like adding, removing, and accessing elements in a LinkedList.
+
+### Reading List:
+- Learn about the LinkedList class in Java.
+- Understand the differences between LinkedList and ArrayList.
+
+## Day 54 - PriorityQueue
+### Tasks:
+- Write a program to demonstrate the usage of PriorityQueue.
+- Perform operations like adding, removing, and accessing elements in a PriorityQueue.
+
+### Reading List:
+- Learn about the PriorityQueue class in Java.
+- Understand the use cases of PriorityQueue.
+
+## Day 55 - Deque
+### Tasks:
+- Write a program to demonstrate the usage of Deque.
+- Perform operations like adding, removing, and accessing elements at both ends of the Deque.
+
+### Reading List:
+- Learn about the Deque interface and its implementations.
+- Understand the differences between Deque and other collection types.
+
+## Day 56 - TreeSet
+### Tasks:
+- Write a program to demonstrate the usage of TreeSet.
+- Perform operations like adding, removing, and accessing elements in a TreeSet.
+
+### Reading List:
+- Learn about the TreeSet class in Java.
+- Understand the differences between TreeSet and HashSet.
+
+## Day 57 - TreeMap
+### Tasks:
+- Write a program to demonstrate the usage of TreeMap.
+- Perform operations like adding, removing, and accessing elements in a TreeMap.
+
+### Reading List:
+- Learn about the TreeMap class in Java.
+- Understand the differences between TreeMap and HashMap.
+
+## Day 58 - Bit Manipulation
+### Tasks:
+- Write a program to demonstrate basic bit manipulation operations (AND, OR, XOR, NOT, left shift, right shift).
+
+### Reading List:
+- Learn about bit manipulation in Java.
+- Understand the use cases of bit manipulation in programming.
+
+## Day 59 - Generics
+### Tasks:
+- Write a program that demonstrates the use of generics.
+- Create a generic class and a generic method.
+
+### Reading List:
+- Learn about generics in Java.
+- Understand the benefits of using generics in programming.
+
+## Day 60 - Collections Utility Methods
+### Tasks:
+- Write a program that demonstrates the usage of Collections utility methods (sort, shuffle, reverse, etc.).
+
+### Reading List:
+- Learn about the utility methods provided by the Collections class.
+- Understand the use cases of these utility methods in programming.
