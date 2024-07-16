@@ -9,6 +9,10 @@
 1. Learn the difference between Java and Python.
 2. What is a Java compiler and how does it work?
 3. Difference between Compiler and Interpreter.
+<a href="https://github.com/safwannasir49/100DaysOfJava/tree/main/Day-1" target="_blank">
+    <img src="https://img.shields.io/badge/Day%201-Java%20Hello%20World-blue?logo=java&logoColor=white&style=for-the-badge" alt="Day 1 - Java Hello World" />
+</a>
+
 
 ## Day 2 - Variables and Data Types
 ### Tasks:
