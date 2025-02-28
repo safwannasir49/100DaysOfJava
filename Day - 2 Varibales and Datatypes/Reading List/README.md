@@ -1,14 +1,22 @@
 📖 Reading List
+
+
 1️⃣ Key Terms
 
 Declaration: Specifying a variable’s type and name (int myInt;).
 Initialization: Assigning an initial value to a variable (myInt = 10;).
 Assignment: Changing the value of an already declared variable (myInt = 20;).
+
+
+
 2️⃣ Primitive vs. Non-Primitive Data Types
 
 Type	Example	Description
 Primitive	int, double, char, boolean	Built-in, stores simple values
 Non-Primitive	String, Array, Class, Object	Derived from classes, store references
+
+
+
 3️⃣ Default Values & Sizes of Primitive Types
 
 Data Type	Default Value	Size
